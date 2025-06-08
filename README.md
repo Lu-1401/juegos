@@ -50,12 +50,12 @@ Proyecto/
 
 📌 Requisitos
 
-    Python 3.10+
+   Python 3.10+
 
-    Pygame
+   Pygame
 
-    (Opcional) Docker
+   (Opcional) Docker
 
 🧑‍💻 Autor
 
-Este proyecto fue creado con fines educativos y de práctica. ¡Disfruta jugando y programando!
+Este proyecto fue creado con fines educativos y de práctica. 
