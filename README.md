@@ -27,25 +27,26 @@ Proyecto/
 │ └── Tetris.py # Juego clásico de Tetris con niveles
 
 🕹️ Sobre los Juegos
+
 🚀 Naves Espaciales
 
-    Mueve tu nave y dispara a los enemigos que bajan.
+   Mueve tu nave y dispara a los enemigos que bajan.
 
-    Evita que te golpeen y consigue la mayor puntuación posible.
-
+   Evita que te golpeen y consigue la mayor puntuación posible.
+   
 🛡️ Tanques
 
-    Controla un tanque, destruye enemigos y sobrevive el mayor tiempo.
+   Controla un tanque, destruye enemigos y sobrevive el mayor tiempo.
 
-    Dispara, esquiva balas enemigas y mejora tu salud al eliminar oponentes.
+   Dispara, esquiva balas enemigas y mejora tu salud al eliminar oponentes.
 
 🧱 Tetris Multinivel
 
-    Clásico juego Tetris con caída automática de piezas.
+   Clásico juego Tetris con caída automática de piezas.
 
-    Gana puntos por limpiar líneas.
+   Gana puntos por limpiar líneas.
 
-    Aumenta la dificultad al subir de nivel.
+   Aumenta la dificultad al subir de nivel.
 
 📌 Requisitos
 
